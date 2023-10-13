@@ -174,8 +174,8 @@ async function createDump(
     };
     await context.graphql(
       `
-        mutation CreateDump($dump: bo_near_devhub_v15_dumps_insert_input!) {
-          insert_bo_near_devhub_v15_dumps_one(
+        mutation CreateDump($dump: bo_near_devhub_v17_dumps_insert_input!) {
+          insert_bo_near_devhub_v17_dumps_one(
             object: $dump
           ) {
             receipt_id
@@ -205,8 +205,8 @@ async function createPost(context, { id, parent_id, author_id }) {
     };
     await context.graphql(
       `
-      mutation CreatePost($post: bo_near_devhub_v15_posts_insert_input!) {
-        insert_bo_near_devhub_v15_posts_one(object: $post) {id}
+      mutation CreatePost($post: bo_near_devhub_v17_posts_insert_input!) {
+        insert_bo_near_devhub_v17_posts_one(object: $post) {id}
       }
       `,
       mutationData
@@ -238,7 +238,7 @@ async function createPostSnapshot(
     post_id,
     block_height,
     editor_id,
-    labels: `{${labels.join(",")}}`,
+    labels,
     post_type,
     description,
     name,
@@ -253,8 +253,8 @@ async function createPostSnapshot(
     };
     await context.graphql(
       `
-      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v15_post_snapshots_insert_input!) {
-        insert_bo_near_devhub_v15_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
+      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v17_post_snapshots_insert_input!) {
+        insert_bo_near_devhub_v17_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
       }
       `,
       mutationData

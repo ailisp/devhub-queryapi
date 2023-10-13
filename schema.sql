@@ -13,7 +13,7 @@ CREATE TABLE
     post_id int,
     block_height bigint,
     editor_id varchar,
-    labels varchar[],
+    labels jsonb,
     post_type varchar,
     description text,
     "name" text,
