@@ -18,8 +18,11 @@ async function getBlock(block: Block) {
   if (devhubOps.length > 0) {
     const authorToPostId = buildAuthorToPostIdMap(block);
     const blockHeight = block.blockHeight;
+    const blockTimestamp = block.header().timestampNanosec;
     await Promise.all(
-      devhubOps.map((op) => indexOp(op, authorToPostId, blockHeight, context))
+      devhubOps.map((op) =>
+        indexOp(op, authorToPostId, blockHeight, blockTimestamp, context)
+      )
     );
   }
 }
@@ -43,7 +46,7 @@ function getDevHubOps(block) {
         .filter((operation) => operation["FunctionCall"])
         .map((operation) => ({
           ...operation["FunctionCall"],
-          signerId: action.signerId,
+          caller: action.predecessorId,
         }))
         .map((operation) => ({
           ...operation,
@@ -52,8 +55,8 @@ function getDevHubOps(block) {
         .filter(
           (operation) =>
             operation.methodName === "add_post" ||
-            operation.methodName === "edit_post"
-          // || operation.methodName === "add_like"
+            operation.methodName === "edit_post" ||
+            operation.methodName === "add_like"
         )
         .map((functionCallOperation) => ({
           ...functionCallOperation,
@@ -87,24 +90,27 @@ function buildAuthorToPostIdMap(block) {
   return authorToPostId;
 }
 
-async function indexOp(op, authorToPostId, blockHeight, context) {
+async function indexOp(
+  op,
+  authorToPostId,
+  blockHeight,
+  blockTimestamp,
+  context
+) {
   let receipt_id = op.receiptId;
-  let caller = op.signerId;
+  let caller = op.caller;
   let args = op.args;
-  let post_id = authorToPostId[op.signerId] ?? null;
+  let post_id = authorToPostId[op.caller] ?? null;
   let method_name = op.methodName;
-  let labels = args.labels;
-  let post_type = args.body.post_type;
-  let description = args.body.description;
-  let name = args.body.name;
-  let sponsorship_token = args.body.sponsorship_token;
-  let sponsorship_amount = args.body.amount;
-  let sponsorship_supervisor = args.body.supervisor;
 
+  if (method_name == "add_like") {
+    post_id = args.post_id;
+  }
   let err = await createDump(context, {
     receipt_id,
     method_name,
     block_height: blockHeight,
+    block_timestamp: blockTimestamp,
     args: JSON.stringify(args),
     caller,
     post_id,
@@ -118,6 +124,16 @@ async function indexOp(op, authorToPostId, blockHeight, context) {
     console.log(
       `Receipt to ${method_name} with receipt_id ${receipt_id} at ${blockHeight} doesn't result in a state change, it's probably a failed receipt, please check`
     );
+    return;
+  }
+
+  if (method_name === "add_like") {
+    let like = {
+      post_id,
+      author_id: caller,
+      ts: blockTimestamp,
+    };
+    await createLike(context, like);
     return;
   }
 
@@ -135,33 +151,49 @@ async function indexOp(op, authorToPostId, blockHeight, context) {
     }
   }
 
-  // both add_post and edit_post
-  let post_snapshot = {
-    post_id,
-    block_height: blockHeight,
-    editor_id: caller,
-    labels,
-    post_type,
-    description,
-    name,
-    sponsorship_token,
-    sponsorship_amount,
-    sponsorship_supervisor,
-  };
-  err = await createPostSnapshot(context, post_snapshot);
-  if (err !== null) {
-    return;
+  if (method_name === "add_post" || method_name === "edit_post") {
+    let labels = args.labels;
+    let post_type = args.body.post_type;
+    let description = args.body.description;
+    let name = args.body.name;
+    let sponsorship_token = args.body.sponsorship_token;
+    let sponsorship_amount = args.body.amount;
+    let sponsorship_supervisor = args.body.supervisor;
+
+    let post_snapshot = {
+      post_id,
+      block_height: blockHeight,
+      ts: blockTimestamp,
+      editor_id: caller,
+      labels,
+      post_type,
+      description,
+      name,
+      sponsorship_token,
+      sponsorship_amount,
+      sponsorship_supervisor,
+    };
+    await createPostSnapshot(context, post_snapshot);
   }
 }
 
 async function createDump(
   context,
-  { receipt_id, method_name, block_height, args, caller, post_id }
+  {
+    receipt_id,
+    method_name,
+    block_height,
+    block_timestamp,
+    args,
+    caller,
+    post_id,
+  }
 ) {
   const dump = {
     receipt_id,
     method_name,
     block_height,
+    block_timestamp,
     args,
     caller,
     post_id,
@@ -174,8 +206,8 @@ async function createDump(
     };
     await context.graphql(
       `
-        mutation CreateDump($dump: bo_near_devhub_v17_dumps_insert_input!) {
-          insert_bo_near_devhub_v17_dumps_one(
+        mutation CreateDump($dump: bo_near_devhub_v32_dumps_insert_input!) {
+          insert_bo_near_devhub_v32_dumps_one(
             object: $dump
           ) {
             receipt_id
@@ -205,8 +237,8 @@ async function createPost(context, { id, parent_id, author_id }) {
     };
     await context.graphql(
       `
-      mutation CreatePost($post: bo_near_devhub_v17_posts_insert_input!) {
-        insert_bo_near_devhub_v17_posts_one(object: $post) {id}
+      mutation CreatePost($post: bo_near_devhub_v32_posts_insert_input!) {
+        insert_bo_near_devhub_v32_posts_one(object: $post) {id}
       }
       `,
       mutationData
@@ -224,6 +256,7 @@ async function createPostSnapshot(
   {
     post_id,
     block_height,
+    ts,
     editor_id,
     labels,
     post_type,
@@ -237,6 +270,7 @@ async function createPostSnapshot(
   const post_snapshot = {
     post_id,
     block_height,
+    ts,
     editor_id,
     labels,
     post_type,
@@ -253,8 +287,8 @@ async function createPostSnapshot(
     };
     await context.graphql(
       `
-      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v17_post_snapshots_insert_input!) {
-        insert_bo_near_devhub_v17_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
+      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v32_post_snapshots_insert_input!) {
+        insert_bo_near_devhub_v32_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
       }
       `,
       mutationData
@@ -266,6 +300,33 @@ async function createPostSnapshot(
   } catch (e) {
     console.log(
       `Error creating Post Snapshot with post_id ${post_id} at block_height ${block_height}: ${e}`
+    );
+    return e;
+  }
+}
+
+async function createLike(context, { post_id, author_id, ts }) {
+  const like = { post_id, author_id, ts };
+  try {
+    console.log("Creating a Like");
+    const mutationData = {
+      like,
+    };
+    await context.graphql(
+      `
+      mutation CreateLike($like: bo_near_devhub_v32_likes_insert_input!) {
+        insert_bo_near_devhub_v32_likes_one(object: $like) {post_id, author_id}
+      }
+      `,
+      mutationData
+    );
+    console.log(
+      `Like ${post_id} by ${author_id} has been added to the database`
+    );
+    return null;
+  } catch (e) {
+    console.log(
+      `Error creating Like to post_id ${post_id} by ${author_id}: ${e}`
     );
     return e;
   }

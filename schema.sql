@@ -12,6 +12,7 @@ CREATE TABLE
     -- due to how query api runs, an edit_post can be processed by the worker before corresponding add_post, so we can't enforce post_id as foreign key
     post_id int,
     block_height bigint,
+    ts decimal(20, 0),
     editor_id varchar,
     labels jsonb,
     post_type varchar,
@@ -26,6 +27,7 @@ CREATE TABLE
   dumps (
     receipt_id varchar primary key,
     block_height bigint,
+    block_timestamp decimal(20, 0),
     method_name varchar,
     args varchar,
     caller varchar,
@@ -40,6 +42,9 @@ create index
 
 CREATE INDEX
   idx_post_snapshots_post_id ON post_snapshots (post_id);
+
+CREATE INDEX
+  idx_post_snapshots_ts ON post_snapshots (ts);
 
 CREATE INDEX
   idx_post_snapshots_editor_id ON post_snapshots (editor_id);
@@ -63,6 +68,7 @@ SELECT
   p.parent_id,
   p.author_id,
   ps.block_height,
+  ps.ts,
   ps.editor_id,
   ps.labels,
   ps.post_type,
@@ -84,3 +90,19 @@ FROM
   ) latest_snapshots ON p.id = latest_snapshots.post_id
   INNER JOIN post_snapshots ps ON latest_snapshots.post_id = ps.post_id
   AND latest_snapshots.max_block_height = ps.block_height;
+
+CREATE TABLE
+  likes (
+    post_id int not null,
+    author_id varchar not null,
+    ts decimal(20, 0) not null
+  );
+
+create index
+  idx_likes_post_id on likes (post_id);
+
+create index
+  idx_likes_author_id on likes (author_id);
+
+create index
+  idx_likes_ts on likes (ts);
