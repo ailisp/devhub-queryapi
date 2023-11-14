@@ -8,7 +8,6 @@ CREATE TABLE
 
 CREATE TABLE
   post_snapshots (
-    id serial primary key,
     -- due to how query api runs, an edit_post can be processed by the worker before corresponding add_post, so we can't enforce post_id as foreign key
     post_id int,
     block_height bigint,
@@ -20,7 +19,8 @@ CREATE TABLE
     "name" text,
     sponsorship_token varchar,
     sponsorship_amount decimal,
-    sponsorship_supervisor varchar
+    sponsorship_supervisor varchar,
+    primary key (post_id, block_height)
   );
 
 CREATE TABLE
@@ -95,7 +95,8 @@ CREATE TABLE
   likes (
     post_id int not null,
     author_id varchar not null,
-    ts decimal(20, 0) not null
+    ts decimal(20, 0) not null,
+    primary key (post_id, author_id)
   );
 
 create index
