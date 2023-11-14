@@ -206,8 +206,8 @@ async function createDump(
     };
     await context.graphql(
       `
-        mutation CreateDump($dump: bo_near_devhub_v34_dumps_insert_input!) {
-          insert_bo_near_devhub_v34_dumps_one(
+        mutation CreateDump($dump: bo_near_devhub_v35_dumps_insert_input!) {
+          insert_bo_near_devhub_v35_dumps_one(
             object: $dump
           ) {
             receipt_id
@@ -237,8 +237,8 @@ async function createPost(context, { id, parent_id, author_id }) {
     };
     await context.graphql(
       `
-      mutation CreatePost($post: bo_near_devhub_v34_posts_insert_input!) {
-        insert_bo_near_devhub_v34_posts_one(object: $post) {id}
+      mutation CreatePost($post: bo_near_devhub_v35_posts_insert_input!) {
+        insert_bo_near_devhub_v35_posts_one(object: $post) {id}
       }
       `,
       mutationData
@@ -287,8 +287,8 @@ async function createPostSnapshot(
     };
     await context.graphql(
       `
-      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v34_post_snapshots_insert_input!) {
-        insert_bo_near_devhub_v34_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
+      mutation CreatePostSnapshot($post_snapshot: bo_near_devhub_v35_post_snapshots_insert_input!) {
+        insert_bo_near_devhub_v35_post_snapshots_one(object: $post_snapshot) {post_id, block_height}
       }
       `,
       mutationData
@@ -316,7 +316,7 @@ async function createLike(context, { post_id, author_id, ts }) {
     await context.graphql(
       `
       mutation CreateLike($author_id: String, $post_id: Int, $ts: numeric) {
-        insert_bo_near_devhub_v34_likes_one(
+        insert_bo_near_devhub_v35_likes_one(
           on_conflict: {constraint: likes_pkey, update_columns: ts, where: {ts: {_lt: $ts}}}
           object: {post_id: $post_id, ts: $ts, author_id: $author_id}
         ) {

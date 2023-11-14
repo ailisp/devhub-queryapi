@@ -20,7 +20,7 @@ CREATE TABLE
     sponsorship_token varchar,
     sponsorship_amount decimal,
     sponsorship_supervisor varchar,
-    primary key (post_id, block_height)
+    primary key (post_id, ts)
   );
 
 CREATE TABLE
