@@ -82,14 +82,14 @@ FROM
   INNER JOIN (
     SELECT
       post_id,
-      MAX(block_height) AS max_block_height
+      MAX(ts) AS max_ts
     FROM
       post_snapshots
     GROUP BY
       post_id
   ) latest_snapshots ON p.id = latest_snapshots.post_id
   INNER JOIN post_snapshots ps ON latest_snapshots.post_id = ps.post_id
-  AND latest_snapshots.max_block_height = ps.block_height;
+  AND latest_snapshots.max_ts = ps.ts;
 
 CREATE TABLE
   likes (
