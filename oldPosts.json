@@ -1,0 +1,1889 @@
+[
+  {
+    "post_version": "V0",
+    "id": 0,
+    "author_id": "devgovgigs.near",
+    "likes": [
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1675118252956252634"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1670549268901714422"
+      },
+      {
+        "author_id": "f.bo.near",
+        "timestamp": "1678342727635360697"
+      },
+      {
+        "author_id": "bo.near",
+        "timestamp": "1673237422980654507"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "nearmax.near",
+      "timestamp": "1676311070851102274",
+      "labels": [
+        "test"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "This is a test idea",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1670548064249728240",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1672886941971940165",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1672887281973973417",
+        "labels": [
+          "test"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "nearmax.near",
+        "timestamp": "1675900010923992417",
+        "labels": [
+          "test",
+          "funding-requested"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "nearmax.near",
+        "timestamp": "1675900043118949363",
+        "labels": [
+          "funding",
+          "test",
+          "funding-requested"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "nearmax.near",
+        "timestamp": "1675900354128994548",
+        "labels": [
+          "test",
+          "funding",
+          "funding-invoice-instructions-provided"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "nearmax.near",
+        "timestamp": "1675900836779271674",
+        "labels": [
+          "funding",
+          "test",
+          "funding-provided"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "ajeon.near",
+        "timestamp": "1675986270635858317",
+        "labels": [
+          "test",
+          "funding-requested",
+          "funding"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "editor_id": "ajeon.near",
+        "timestamp": "1675986297486907956",
+        "labels": [
+          "test",
+          "funding-provided",
+          "funding"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "This is a test idea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 1,
+    "author_id": "devgovgigs.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670548085712206259",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "This is a test submission",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [],
+    "parent_id": 0
+  },
+  {
+    "post_version": "V0",
+    "id": 2,
+    "author_id": "devgovgigs.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670548122541711582",
+      "labels": [],
+      "post_type": "Sponsorship",
+      "sponsorship_version": "V1",
+      "name": "This is a test sponsorship",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sponsorship_token": "NEAR",
+      "amount": "100",
+      "supervisor": "mob.near"
+    },
+    "snapshot_history": [],
+    "parent_id": 1
+  },
+  {
+    "post_version": "V0",
+    "id": 3,
+    "author_id": "devgovgigs.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1670550872396671133"
+      },
+      {
+        "author_id": "simonemelanie.near",
+        "timestamp": "1671383466560621144"
+      },
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1670566720094365078"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942502435734657",
+      "labels": [
+        "feature-request",
+        "gigs-board",
+        "developer-governance"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Make likes, comments, submission, sponsorship appear in the notifications feed",
+      "description": "It would be great if when person receives a like or a comment to their idea/submission/sponsorship they saw a notification in the top-right corner (the bell) of the near.social website. Similarly it would be great to notify someone who submitted an idea when someone submitted a solution to it, or when someone decided to sponsor a specific solution. Note, that this \"Gigs Board\" stores all of its data in its own smart contract (https://github.com/near/devgigsboard). If we need to use SocialDB to interop with the notification system then it is okay to use SocialDB, but only as a duplication of the data stored in the smart contract itself."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1670549593228406221",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Make likes, comments, submission, sponsorship appear in the notifications feed",
+        "description": "It would be great if when person receives a like or a comment to their idea/submission/sponsorship they saw a notification in the top-right corner (the bell) of the near.social website. Similarly it would be great to notify someone who submitted an idea when someone submitted a solution to it, or when someone decided to sponsor a specific solution. Note, that this \"Gigs Board\" stores all of its data in its own smart contract (https://github.com/near/devgigsboard). If we need to use SocialDB to interop with the notification system then it is okay to use SocialDB, but only as a duplication of the data stored in the smart contract itself."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 4,
+    "author_id": "devgovgigs.near",
+    "likes": [
+      {
+        "author_id": "arizas.near",
+        "timestamp": "1688122500514208122"
+      },
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1670566703937641110"
+      },
+      {
+        "author_id": "blaze.near",
+        "timestamp": "1671059068876057888"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1670551180057665750"
+      },
+      {
+        "author_id": "partners.learnclub.near",
+        "timestamp": "1670948485660759741"
+      },
+      {
+        "author_id": "toolipse.near",
+        "timestamp": "1672904780607445354"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942569372945464",
+      "labels": [
+        "feature-request",
+        "gigs-board",
+        "resolved",
+        "developer-governance"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Allow rich formatting, especially attaching images",
+      "description": "Right now the body/description of the ideas, submissions, sponsorships, and comments is a plain non-formatted text. There is already a strong need in attaching screenshots for front-end development and design ideas. However, it would be even better if we allowed markdown formatting. I don't have any specific ideas where someone would host the attached images, but probably not in the contract state itself."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1670551150523931940",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Allow rich formatting, especially attaching images",
+        "description": "Right now the body/description of the ideas, submissions, sponsorships, and comments is a plain non-formatted text. There is already a strong need in attaching screenshots for front-end development and design ideas. However, it would be even better if we allowed markdown formatting. I don't have any specific ideas where someone would host the attached images, but probably not in the contract state itself."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 5,
+    "author_id": "root.near",
+    "likes": [
+      {
+        "author_id": "blaze.near",
+        "timestamp": "1671059131557261347"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671234319604052895"
+      },
+      {
+        "author_id": "frol.near",
+        "timestamp": "1671455963840326949"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "root.near",
+      "timestamp": "1670589272856780285",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "Solution",
+      "description": "Just use <Markdown> in the implementation similar to https://near.social/#/mob.near/widget/WidgetSource?src=root.near/widget/BlogEntry. It will out of the box allow to attach images via url.\n\nGoing forward social will need a markdown editor can support uploading images to IPFS."
+    },
+    "snapshot_history": [],
+    "parent_id": 4
+  },
+  {
+    "post_version": "V0",
+    "id": 6,
+    "author_id": "devgovgigs.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670893421978566471",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "#### Test comment\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [],
+    "parent_id": 1
+  },
+  {
+    "post_version": "V0",
+    "id": 7,
+    "author_id": "devgovgigs.near",
+    "likes": [
+      {
+        "author_id": "superposition.near",
+        "timestamp": "1677613094548207720"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670895975735242566",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "#### Test comment 2\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [],
+    "parent_id": 1
+  },
+  {
+    "post_version": "V0",
+    "id": 8,
+    "author_id": "devgovgigs.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670898410908414474",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "#### Test comment 3\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [],
+    "parent_id": 7
+  },
+  {
+    "post_version": "V0",
+    "id": 9,
+    "author_id": "urbanite.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "urbanite.near",
+      "timestamp": "1670957461499235272",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "*Love* this markdown support! ![Love](https://i.guim.co.uk/img/media/bdf23d7b1bbb200cf72ae0c22f051bf926445b20/1_0_5075_3046/master/5075.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c54061a8d861b798e85e896465abec73)"
+    },
+    "snapshot_history": [],
+    "parent_id": 4
+  },
+  {
+    "post_version": "V0",
+    "id": 10,
+    "author_id": "devgovgigs.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1670984425458022156",
+      "labels": [],
+      "post_type": "Attestation",
+      "attestation_version": "V1",
+      "name": "Test 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "snapshot_history": [],
+    "parent_id": 1
+  },
+  {
+    "post_version": "V0",
+    "id": 11,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671211307794807624"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942748130318214",
+      "labels": [
+        "feature-request",
+        "js",
+        "near-sdk-js",
+        "javascript"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "near-sdk-js UnorderedMap Should Have a Way to Return Keys",
+      "description": "Developers have troubles to find to only iterate only keys. There is only APIs to return key values, in some case, values are big and it's inefficient to load if they only need keys. "
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "bo.near",
+        "timestamp": "1671158661817472721",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "near-sdk-js UnorderedMap Should Have a Way to Return Keys",
+        "description": "Developers have troubles to find to only iterate only keys. There is only APIs to return key values, in some case, values are big and it's inefficient to load if they only need keys. "
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 12,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671234843004686102"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "bo.near",
+      "timestamp": "1671158748701274932",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "Make a separate API to iterate keys",
+      "description": ""
+    },
+    "snapshot_history": [],
+    "parent_id": 11
+  },
+  {
+    "post_version": "V0",
+    "id": 13,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671234333116698591"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942624144580392",
+      "labels": [
+        "feature-request",
+        "widget"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Some short user ex enhancement suggests on IdeasList",
+      "description": "- after submit an idea, redirect to IdeasList. Currently it stays at AddIdea.\n- Add a function call access key with some allowance to devgovgigs.near contract, so it doesn't have to redirect to wallet everytime to add_idea\n- display ideas from newest to oldest (reverse of current order)\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "bo.near",
+        "timestamp": "1671158917788917517",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Some short user ex enhancement suggests on IdeasList",
+        "description": "- after submit an idea, redirect to IdeasList. Currently it stays at AddIdea.\n- Add a function call access key with some allowance to devgovgigs.near contract, so it doesn't have to redirect to wallet everytime to add_idea\n- display ideas from newest to oldest (reverse of current order)\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 14,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671211277622703151"
+      },
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1671208175577964339"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942870692952906",
+      "labels": [
+        "near-sdk-js",
+        "js",
+        "release",
+        "javascript"
+      ],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "### Status update for moving out of Alpha for near-sdk-js\nFrom David Millar-Durrant:\nSo there are two streams of work going on to reach 1.0.\n\nThe first is API stability, we want to rework the API a bit because some parts are a little finicky to work with and we don't have complete APIs for certain contract interfaces. We're not too far off completing that.\n\nThe second string of work is improving the correctness of QuickJS, the library we use to run JS in contracts. We've run into some issues there so we've hired some compiler/interpreter experts to vet and improve it. They're just starting work now, when they're happy with the quality of the code we'll move this into beta. I'll post an estimate on how long that will take after they've gotten stuck into the code.\n\nAfter that auditors will give the code one more pass and then we can move it from beta to release. This will probably take another 6-8 weeks."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "bo.near",
+        "timestamp": "1671159084871489028",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Status update for moving out of Alpha for near-sdk-js",
+        "description": "From David Millar-Durrant:\nSo there are two streams of work going on to reach 1.0.\n\nThe first is API stability, we want to rework the API a bit because some parts are a little finicky to work with and we don't have complete APIs for certain contract interfaces. We're not too far off completing that.\n\nThe second string of work is improving the correctness of QuickJS, the library we use to run JS in contracts. We've run into some issues there so we've hired some compiler/interpreter experts to vet and improve it. They're just starting work now, when they're happy with the quality of the code we'll move this into beta. I'll post an estimate on how long that will take after they've gotten stuck into the code.\n\nAfter that auditors will give the code one more pass and then we can move it from beta to release. This will probably take another 6-8 weeks."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 15,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671225636444087879"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "bo.near",
+      "timestamp": "1671159316576430363",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "For API stability, it is done",
+      "description": "Recently, we finalized the last API regarding handle utf-8 encoding and raw bytes in state, contract arguments and value returns: https://github.com/near/near-sdk-js/pull/308. There is no breaking changes in roadmap to 1.0."
+    },
+    "snapshot_history": [],
+    "parent_id": 14
+  },
+  {
+    "post_version": "V0",
+    "id": 16,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671211293330212926"
+      },
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1671208186797114873"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "bo.near",
+      "timestamp": "1671159717008331198",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "For correctness of QuickJS, it has great progress",
+      "description": "From Alexandr Esilevich:\nHi, I have an update regarding the BigNum library in quickjs.\nAfter some research, I've found the Boost.multiprecision library. This is a highly customizable library for big integer/float arithmetics which has a lot of tests.\nI've created (very limited) customization for the libbf library and ran part of the tests from the Boost.multiprecision test suite (basic arithmetics tests and a bunch of tests for pow and acos functions). I've tested x86_64/x86/webassembly targets.\nThe libbf library passed all tests I've checked, except of some specialized tests for the Boost.multiprecision library. So I don't think the libbf is very buggy or is not usable at all.\nI suggest rewriting part of Boost.multiprecision tests in javascript using the BigFloat class. It should not be hard because Boost.multiprecision library contains tests for a generic library. There are several big arrays of strings containing arguments and results, and we should just parse strings, execute an operation, and check relative error from the expected result.\nI think it will be good step for making the BigFloat library more stable. We can push our tests upstream, and they will be accepted almost for sure because it's better to have tests than not. After that, if we decide to replace the libbf library with something else (libgmp/libmpfr for example) then we will have a good test suite for integration with the new library."
+    },
+    "snapshot_history": [],
+    "parent_id": 14
+  },
+  {
+    "post_version": "V0",
+    "id": 17,
+    "author_id": "bo.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671211267174319114"
+      },
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1671208134087446834"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672942913300415905",
+      "labels": [
+        "gigs-board",
+        "resolved",
+        "developer-governance"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Allow edit an idea and submission",
+      "description": "I made mistake in formatting my submission, but currently it doesn't allow edit after submit"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "bo.near",
+        "timestamp": "1671159845064430031",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Allow edit an idea and submission",
+        "description": "I made mistake in formatting my submission, but currently it doesn't allow edit after submit"
+      },
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1672942303188231891",
+        "labels": [
+          "resolved"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Allow edit an idea and submission",
+        "description": "I made mistake in formatting my submission, but currently it doesn't allow edit after submit"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 18,
+    "author_id": "nearmax.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "nearmax.near",
+      "timestamp": "1671238550084888901",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "So is this being currently worked on by Alexandr?"
+    },
+    "snapshot_history": [],
+    "parent_id": 16
+  },
+  {
+    "post_version": "V0",
+    "id": 19,
+    "author_id": "nearmax.near",
+    "likes": [
+      {
+        "author_id": "bo.near",
+        "timestamp": "1671421164908167373"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "nearmax.near",
+      "timestamp": "1671238852511783326",
+      "labels": [],
+      "post_type": "Solution",
+      "solution_version": "V1",
+      "name": "Edit, History, and Moderation will be added shortly",
+      "description": "We have thought through the architecture of the smart contract and the front-end to support edit, history, and moderation of the posts. We just did not get around to implement it. ETA by Nov 23. Note though that Gigs board is intentionally append-only, so all history of changes will be preserved and easily accessible."
+    },
+    "snapshot_history": [],
+    "parent_id": 17
+  },
+  {
+    "post_version": "V0",
+    "id": 20,
+    "author_id": "ilerik.near",
+    "likes": [
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1671298085412818198"
+      },
+      {
+        "author_id": "sergantche_dev.near",
+        "timestamp": "1673608785700357568"
+      },
+      {
+        "author_id": "legard.near",
+        "timestamp": "1671480131978926405"
+      },
+      {
+        "author_id": "bo.near",
+        "timestamp": "1671421110106152402"
+      },
+      {
+        "author_id": "ilerik.near",
+        "timestamp": "1671281611742000938"
+      },
+      {
+        "author_id": "meta_irony.near",
+        "timestamp": "1673547546406532882"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671469126866540968"
+      },
+      {
+        "author_id": "bratandronik235711.near",
+        "timestamp": "1671282077175916417"
+      },
+      {
+        "author_id": "luluca_l.near",
+        "timestamp": "1671360947810896994"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672943159156736948",
+      "labels": [
+        "proposal",
+        "kyc",
+        "near-social",
+        "nft",
+        "sbt",
+        "integration"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Integration proposal by vSelf",
+      "description": "[vRanda](https://vself.app/vranda) & Near.Social integration: a user-friendly interface that allows creating Web3 profiles with on-chain data. \n\nFunctionality: \n- SBT/NFT collection layout custom built and controlled by the user. Data is synced using [The Graph Protocol](https://thegraph.com/) NEAR subgraph.\n- Personal data (name, bio) & avatar, social graph & subscriptions are imported from Near.Social.\n- Verification by [Verisoul](https://www.verisoul.xyz/) provides the proofed user status in the vRanda interface.\n\nTechnically we want to: \n- Build a widget integrated with Verisoul that publishes verification confirmation on-chain in Near.SocialDB under users account and displays it in public profile.\n- Integrate new Near.Social functionality into vRanda public pages.\n- Maintain on-chain index for vSelf community inside Near.SocialDB and an SBT minting contract.\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "ilerik.near",
+        "timestamp": "1671281588900878625",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Integration proposal by vSelf",
+        "description": "[vRanda](https://vself.app/vranda) & Near.Social integration: a user-friendly interface that allows creating Web3 profiles with on-chain data. \n\nFunctionality: \n- SBT/NFT collection layout custom built and controlled by the user. Data is synced using [The Graph Protocol](https://thegraph.com/) NEAR subgraph.\n- Personal data (name, bio) & avatar, social graph & subscriptions are imported from Near.Social.\n- Verification by [Verisoul](https://www.verisoul.xyz/) provides the proofed user status in the vRanda interface.\n\nTechnically we want to: \n- Build a widget integrated with Verisoul that publishes verification confirmation on-chain in Near.SocialDB under users account and displays it in public profile.\n- Integrate new Near.Social functionality into vRanda public pages.\n- Maintain on-chain index for vSelf community inside Near.SocialDB and an SBT minting contract.\n"
+      },
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1672943025129285471",
+        "labels": [
+          "integration",
+          "kyc",
+          "near-social",
+          "proposal"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Integration proposal by vSelf",
+        "description": "[vRanda](https://vself.app/vranda) & Near.Social integration: a user-friendly interface that allows creating Web3 profiles with on-chain data. \n\nFunctionality: \n- SBT/NFT collection layout custom built and controlled by the user. Data is synced using [The Graph Protocol](https://thegraph.com/) NEAR subgraph.\n- Personal data (name, bio) & avatar, social graph & subscriptions are imported from Near.Social.\n- Verification by [Verisoul](https://www.verisoul.xyz/) provides the proofed user status in the vRanda interface.\n\nTechnically we want to: \n- Build a widget integrated with Verisoul that publishes verification confirmation on-chain in Near.SocialDB under users account and displays it in public profile.\n- Integrate new Near.Social functionality into vRanda public pages.\n- Maintain on-chain index for vSelf community inside Near.SocialDB and an SBT minting contract.\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 21,
+    "author_id": "nearmax.near",
+    "likes": [
+      {
+        "author_id": "vself.near",
+        "timestamp": "1671377261468268825"
+      },
+      {
+        "author_id": "ilerik.near",
+        "timestamp": "1671347594457418895"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "nearmax.near",
+      "timestamp": "1671299106073816834",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "Thank you for the submission! A couple of clarification questions:\n* Is vSelf developing under past or ongoing NEAR Foundation grant/investment?\n* Does it support any SBT contract or only SBT the one created and controlled by vSelf?\n* Will it support KYC and who is going to be a provider?\n"
+    },
+    "snapshot_history": [],
+    "parent_id": 20
+  },
+  {
+    "post_version": "V0",
+    "id": 22,
+    "author_id": "vself.near",
+    "likes": [
+      {
+        "author_id": "nearmax.near",
+        "timestamp": "1671402592396910879"
+      },
+      {
+        "author_id": "ilerik.near",
+        "timestamp": "1671396067755687723"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "vself.near",
+      "timestamp": "1671395017064727333",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "@nearmax.near\n- The initial MVP was supported by Human Guild until July 22 (here is the report https://gov.near.org/t/report-mvp-for-vself-web3-identity-wallet/27420). \n- It does support any tokens that follow the NEAR NFT standard. The only restriction so far is the complexity of the file associated (e.g., animations are not there yet, but are planned further on the roadmap). \n-  We plan to start with proof-of-humanity through the Verisoul solution. If there is a particular KYC procedure in demand in the community (e.g., by Netverify), we will consider integrating it.  "
+    },
+    "snapshot_history": [],
+    "parent_id": 21
+  },
+  {
+    "post_version": "V0",
+    "id": 23,
+    "author_id": "nearmax.near",
+    "likes": [
+      {
+        "author_id": "ilerik.near",
+        "timestamp": "1671514201843218725"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "nearmax.near",
+      "timestamp": "1671402798794818451",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "Do we know if AstroDAO is planning on integrating KYC? For Developer Governance DAO it would be really great if either near.social profiles displayed some form of KYC or it was integrated on AstroDAO level."
+    },
+    "snapshot_history": [],
+    "parent_id": 22
+  },
+  {
+    "post_version": "V0",
+    "id": 24,
+    "author_id": "nembal.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671469116722778006"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672943266665104940",
+      "labels": [
+        "proposal",
+        "kyc",
+        "near-social",
+        "nft",
+        "sbt",
+        "integration"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "verified badge - using kycDAO",
+      "description": "\nGoal: \n- allow [near.social](https://near.social/) users to show if they have a trusted verification \n  - use kycNFTs as the verification badge (web3 version of the Twitter tick) to ensure that users can trust each other\n- signal that a trusted wallet belongs to someone who is\n  - a human\n  - not on a sanctions list\n  - verified\n- protect wallet-owner privacy. \n\nInfo:\n[kycDAO](https://kycdao.xyz/) is a compliance framework that links verified identities to self-hosted wallets in a privacy-preserving way.\n\nHow: \n- integrate NEAR deployed kycNFTs - [kycDAO soulbound NFTs](https://github.com/kycdao/smart-contracts/tree/main/near/kycdao-ntnft) - to ensure that verifications always belong to the same wallet\n  - NFT metadata for badge image \n  - NFT validity gating `_is_valid?` at frontend and at optionally at the contract level \n\n- integrate kycDAO UI SDK to [near.social](https://near.social/) and enable users to mint their kycDAO membership proof (kycNFT) after connecting their wallets to a trusted verification provider. \n\nPrivacy: \n-  kycNFTs do NOT contain Personal Information. They only represent validity and tier (verification type) information.\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "nembal.near",
+        "timestamp": "1671406381354377188",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "verified badge - using kycDAO",
+        "description": "\nGoal: \n- allow [near.social](https://near.social/) users to show if they have a trusted verification \n  - use kycNFTs as the verification badge (web3 version of the Twitter tick) to ensure that users can trust each other\n- signal that a trusted wallet belongs to someone who is\n  - a human\n  - not on a sanctions list\n  - verified\n- protect wallet-owner privacy. \n\nInfo:\n[kycDAO](https://kycdao.xyz/) is a compliance framework that links verified identities to self-hosted wallets in a privacy-preserving way.\n\nHow: \n- integrate NEAR deployed kycNFTs - [kycDAO soulbound NFTs](https://github.com/kycdao/smart-contracts/tree/main/near/kycdao-ntnft) - to ensure that verifications always belong to the same wallet\n  - NFT metadata for badge image \n  - NFT validity gating `_is_valid?` at frontend and at optionally at the contract level \n\n- integrate kycDAO UI SDK to [near.social](https://near.social/) and enable users to mint their kycDAO membership proof (kycNFT) after connecting their wallets to a trusted verification provider. \n\nPrivacy: \n-  kycNFTs do NOT contain Personal Information. They only represent validity and tier (verification type) information.\n"
+      },
+      {
+        "editor_id": "devgovgigs.near",
+        "timestamp": "1672943231569960372",
+        "labels": [
+          "nft",
+          "sbt",
+          "kyc",
+          "near-social",
+          "proposal"
+        ],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "verified badge - using kycDAO",
+        "description": "\nGoal: \n- allow [near.social](https://near.social/) users to show if they have a trusted verification \n  - use kycNFTs as the verification badge (web3 version of the Twitter tick) to ensure that users can trust each other\n- signal that a trusted wallet belongs to someone who is\n  - a human\n  - not on a sanctions list\n  - verified\n- protect wallet-owner privacy. \n\nInfo:\n[kycDAO](https://kycdao.xyz/) is a compliance framework that links verified identities to self-hosted wallets in a privacy-preserving way.\n\nHow: \n- integrate NEAR deployed kycNFTs - [kycDAO soulbound NFTs](https://github.com/kycdao/smart-contracts/tree/main/near/kycdao-ntnft) - to ensure that verifications always belong to the same wallet\n  - NFT metadata for badge image \n  - NFT validity gating `_is_valid?` at frontend and at optionally at the contract level \n\n- integrate kycDAO UI SDK to [near.social](https://near.social/) and enable users to mint their kycDAO membership proof (kycNFT) after connecting their wallets to a trusted verification provider. \n\nPrivacy: \n-  kycNFTs do NOT contain Personal Information. They only represent validity and tier (verification type) information.\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 25,
+    "author_id": "bo.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "bo.near",
+      "timestamp": "1671421298508574120",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "The first and the third idea above have been achieved in devgovgigs.near/MyPage. The second idea will still be helpful. And not limited to add_idea, but also `like`, `comment`, etc."
+    },
+    "snapshot_history": [],
+    "parent_id": 13
+  },
+  {
+    "post_version": "V0",
+    "id": 26,
+    "author_id": "frol.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671469105609360774"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672943318676721801",
+      "labels": [
+        "community",
+        "docs",
+        "developer-governance"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Developer Governance Guidelines and Best Practices",
+      "description": "The idea is to author a document and/or visualization that covers how anyone from the community can participate in any of the stages from early ideation to production and beyond with examples and best practices."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "frol.near",
+        "timestamp": "1671456717668773270",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Developer Governance Guidelines and Best Practices",
+        "description": "The idea is to author a document and/or visualization that covers how anyone from the community can participate in any of the stages from early ideation to production and beyond with examples and best practices."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 27,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671556422635961912"
+      },
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654352703693478"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672948352208473191",
+      "labels": [
+        "widget",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Job Board",
+      "description": "Goal\n- create a decentralized Job board anyone can post to\n- Job Title, Description, Experience, Hiring Organization\n- A CRM like trello board that serves as applicant tracking system\n- Ability to set a owner that can setup status of Job (Open, Closed, Fulfilled)\n\nThis is an open idea for anyone to take"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671507246942872133",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Job Board",
+        "description": "Goal\n- create a decentralized Job board anyone can post to\n- Job Title, Description, Experience, Hiring Organization\n- A CRM like trello board that serves as applicant tracking system\n- Ability to set a owner that can setup status of Job (Open, Closed, Fulfilled)\n\nThis is an open idea for anyone to take"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 28,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671556412117677207"
+      },
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654336392563879"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672948628267273937",
+      "labels": [
+        "widget",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Export Contact List",
+      "description": "Goal\n- create a widget to easily export contacts. Contact may be defined as friends on NEAR social. A contact may also be previous wallets sent transactions to that also have a NEAR.social profile\n- into a CSV or Json file"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671511708709917896",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Export Contact List",
+        "description": "Goal\n- create a widget to easily export contacts. Contact may be defined as friends on NEAR social. A contact may also be previous wallets sent transactions to that also have a NEAR.social profile\n- into a CSV or Json file"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 29,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671556401628009875"
+      },
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654135345086374"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954269618436793",
+      "labels": [
+        "developer-governance",
+        "feature-request",
+        "gigs-board",
+        "near-social",
+        "badges",
+        "nft",
+        "dao"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "My DAOs on Profile",
+      "description": "Goal\n- Ability to see myDAOs on Profile page to see which DAOs you are a part of\n- Need to standardized DAO contract as NEP for DAOs that aren't through Sputnik contracts\n- Create a DAO page (separate task) and see members by NEAR Social profile -> would be cool to see profiles that aren't on NEAR social and send them an onboard to near.social NFT\n- Ability to see role in subgroups through badges\n\nInspiration \n- DeepDAO.io "
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671511867368874192",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "My DAOs on Profile",
+        "description": "Goal\n- Ability to see myDAOs on Profile page to see which DAOs you are a part of\n- Need to standardized DAO contract as NEP for DAOs that aren't through Sputnik contracts\n- Create a DAO page (separate task) and see members by NEAR Social profile -> would be cool to see profiles that aren't on NEAR social and send them an onboard to near.social NFT\n- Ability to see role in subgroups through badges\n\nInspiration \n- DeepDAO.io "
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 30,
+    "author_id": "noak.near",
+    "likes": [
+      {
+        "author_id": "keyokey.near",
+        "timestamp": "1671805424675573370"
+      },
+      {
+        "author_id": "blaze.near",
+        "timestamp": "1671633905929320071"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671571224312635393"
+      },
+      {
+        "author_id": "hackerhouse.near",
+        "timestamp": "1671907155466863724"
+      },
+      {
+        "author_id": "kenjon.near",
+        "timestamp": "1672375255048715064"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954354619650330",
+      "labels": [
+        "proposal",
+        "kyc",
+        "near-social",
+        "sbt",
+        "integration"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Integrate I-am-human SBT with Near.social",
+      "description": "allow near.social users to show if they have a trusted verification, using SBTs (Soulbound tokens) from the i-am human.app as the verification badge. This would be a way to ensure that users can trust each other, a signal that a near.social account belongs to someone who is\na human\n\ni-am-human is a compliance framework that links verified identities to wallets in a privacy-preserving way by issuing a variety of SBTs to the wallet and then using logic to specify which combination of SBTs verifies an account as belonging to a human. In the MVP version we are deploying two SBTs, one of which is a face and voice scan and the other is a peer-to-peer validation, and both are required to qualify as a human-verified account. \n\nHow:\n\nIntegrate SBTs deployed to an account on Near with the associated near.social profile - and a the SBT class with a standardized rules - to display a list of SBTs and produce a check mark (like Twitter Blue) if the right combination of SBTs is present and valid. \n\nAllow users to filter and display only accounts that have the check mark, that are human. \n\nAllow apps the optionality to - for example - only allow posting by verified humans, only allow votes by verified humans, etc\n\nPrivacy:\n\ni-am-human.app does not contain any Personally Identifiable Information (PII). The SBTs only represent mint date, validity periodicity and verification type. Plus the account to which it is minted and sometimes can also be traced back to the account of the person that verified you."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "noak.near",
+        "timestamp": "1671569803738545652",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Integrate I-am-human SBT with Near.social",
+        "description": "allow near.social users to show if they have a trusted verification, using SBTs (Soulbound tokens) from the i-am human.app as the verification badge. This would be a way to ensure that users can trust each other, a signal that a near.social account belongs to someone who is\na human\n\ni-am-human is a compliance framework that links verified identities to wallets in a privacy-preserving way by issuing a variety of SBTs to the wallet and then using logic to specify which combination of SBTs verifies an account as belonging to a human. In the MVP version we are deploying two SBTs, one of which is a face and voice scan and the other is a peer-to-peer validation, and both are required to qualify as a human-verified account. \n\nHow:\n\nIntegrate SBTs deployed to an account on Near with the associated near.social profile - and a the SBT class with a standardized rules - to display a list of SBTs and produce a check mark (like Twitter Blue) if the right combination of SBTs is present and valid. \n\nAllow users to filter and display only accounts that have the check mark, that are human. \n\nAllow apps the optionality to - for example - only allow posting by verified humans, only allow votes by verified humans, etc\n\nPrivacy:\n\ni-am-human.app does not contain any Personally Identifiable Information (PII). The SBTs only represent mint date, validity periodicity and verification type. Plus the account to which it is minted and sometimes can also be traced back to the account of the person that verified you."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 31,
+    "author_id": "root.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "root.near",
+      "timestamp": "1671575804916522639",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "Great idea. It doesn't seem like kycDAO is operational though yet, right?\n\nAfter it is going to be live someone should build a component that surfaces a checkmark if given account_id has been verified. Then main Profile component and other sub components can include the component with checkmark.\n\nSeparately would need a component to go through KYC process."
+    },
+    "snapshot_history": [],
+    "parent_id": 24
+  },
+  {
+    "post_version": "V0",
+    "id": 32,
+    "author_id": "djwine_official.near",
+    "likes": [
+      {
+        "author_id": "aliaksandrh.near",
+        "timestamp": "1671745631838744150"
+      },
+      {
+        "author_id": "arca9.near",
+        "timestamp": "1677187941894595609"
+      },
+      {
+        "author_id": "blaze.near",
+        "timestamp": "1673215248702972454"
+      },
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671648255283919171"
+      },
+      {
+        "author_id": "kenjon.near",
+        "timestamp": "1672375200726473064"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954433558047368",
+      "labels": [
+        "dashboard",
+        "hackathon",
+        "social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Social Graph Explorer",
+      "description": "Allow users to explore the decentralized social graph via open data. \n\nSuch a tool will help one answer questions such as:\n- What is the overall structure of the network?\n- Who are the important people, or hubs, in the network?\n- What are the subgroups and communities in the network?  \n\nHackathon MVP here: https://widgets-8d2.pages.dev/"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "djwine_official.near",
+        "timestamp": "1671640074210644712",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Social Graph Explorer",
+        "description": "Allow users to explore the decentralized social graph via open data. \n\nSuch a tool will help one answer questions such as:\n- What is the overall structure of the network?\n- Who are the important people, or hubs, in the network?\n- What are the subgroups and communities in the network?  \n\nHackathon MVP here: https://widgets-8d2.pages.dev/"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 33,
+    "author_id": "silly_psyop.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "silly_psyop.near",
+      "timestamp": "1671645183552692497",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "Would prefer to use a zkp solution to kyc instead of trusting a DAO with personal data. Something like: https://eprint.iacr.org/2021/907.pdf"
+    },
+    "snapshot_history": [],
+    "parent_id": 24
+  },
+  {
+    "post_version": "V0",
+    "id": 34,
+    "author_id": "snjax.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671726875741525684"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954518780709590",
+      "labels": [
+        "kyc",
+        "zero-knowledge",
+        "zk",
+        "proposal"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "zkKYC",
+      "description": "We propose to build KYC on zkSNARKs. It helps to keep your privacy and interact only with clean assets in decentralized protocols.\n\nFor more details follow the link https://hackmd.io/@zthUvKNmRheIOgHHOGf1fA/rka87lxYi "
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "snjax.near",
+        "timestamp": "1671704405257166950",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "zkKYC",
+        "description": "We propose to build KYC on zkSNARKs. It helps to keep your privacy and interact only with clean assets in decentralized protocols.\n\nFor more details follow the link https://hackmd.io/@zthUvKNmRheIOgHHOGf1fA/rka87lxYi "
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 35,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1671726865604854110"
+      },
+      {
+        "author_id": "root.near",
+        "timestamp": "1671728774088924298"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954777963359167",
+      "labels": [
+        "feature-request",
+        "gigs-board",
+        "developer-governance"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "DevGovGigs Board Improvement",
+      "description": "- Sponsor ideas directly (just like past ideas list), also filter for seeing most funded projects\n- Overall feedback board (rather than ideas) for small improvements to improve board (Astro Bounties widget has example)\n- Status (see the status of approval) also information on the approval process\n- Filter (see ideas based on likes) rather than just recent\n- Maybe a matching system, community sponsorship matched with DevDAO amount\n- Context on process for IDEA board with link to neardevgov.org\n- Labels and tags for type of idea (Open Ideas, Grant Proposal, NEP, etc)\n- Group submissions, ability for others to cosign as submitters for largers projects\n- Feed from github regarding updates to https://github.com/near/NEPs/\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671721040252612177",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "DevGovGigs Board Improvement",
+        "description": "- Sponsor ideas directly (just like past ideas list), also filter for seeing most funded projects\n- Overall feedback board (rather than ideas) for small improvements to improve board (Astro Bounties widget has example)\n- Status (see the status of approval) also information on the approval process\n- Filter (see ideas based on likes) rather than just recent\n- Maybe a matching system, community sponsorship matched with DevDAO amount\n- Context on process for IDEA board with link to neardevgov.org\n- Labels and tags for type of idea (Open Ideas, Grant Proposal, NEP, etc)\n- Group submissions, ability for others to cosign as submitters for largers projects\n- Feed from github regarding updates to https://github.com/near/NEPs/\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 36,
+    "author_id": "root.near",
+    "likes": [
+      {
+        "author_id": "devgovgigs.near",
+        "timestamp": "1672969119391090963"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "root.near",
+      "timestamp": "1671731618921207413",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "Questions to the detailed proposal:\n - KYC providers need to bind the persons ID to the on-chain account, otherwise user can attach certificate to whatever account / resell it. That means that \"KYC provider de-anonymization\" is not really solved.\n - Who are KYC providers who you would integrate with?\n - What is user experience of this? As a user, is it expected they would need to go to 3-5-7 KYC providers and upload their documents there?"
+    },
+    "snapshot_history": [],
+    "parent_id": 34
+  },
+  {
+    "post_version": "V0",
+    "id": 37,
+    "author_id": "aliaksandrh.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "aliaksandrh.near",
+      "timestamp": "1671745721171616759",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "who built it?"
+    },
+    "snapshot_history": [],
+    "parent_id": 32
+  },
+  {
+    "post_version": "V0",
+    "id": 38,
+    "author_id": "snjax.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "snjax.near",
+      "timestamp": "1671831284723988336",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "* The user could sell his account like in other KYC systems after verification. So, it's a common risk. At the same time, we have a way of deanonymizing bad actors, and as everything is onchain, we have enough opportunities to identify the moment of crime and bad actions.\n* I mean companies that provide KYC as a service ([idnow.io](https://idnow.io/) for example). We have already discussed the potential collaboration with some of them."
+    },
+    "snapshot_history": [],
+    "parent_id": 36
+  },
+  {
+    "post_version": "V0",
+    "id": 39,
+    "author_id": "snjax.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "snjax.near",
+      "timestamp": "1671831395963285600",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "3. Yes, users should get certificates from different KYC providers, fully passing KYC there. But the certificates are potentially valuable for authorizing accounts on multiple decentralized protocols, so there should not be overhead in UX."
+    },
+    "snapshot_history": [],
+    "parent_id": 36
+  },
+  {
+    "post_version": "V0",
+    "id": 40,
+    "author_id": "aliaksandrh.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954205433240722",
+      "labels": [
+        "feature-request",
+        "gif",
+        "near-social",
+        "memes"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Supporting simple gif search to be able to have memes like in Telegram to express yourself",
+      "description": "Would be great to add ability to search for gifs, given NEAR Social supports all file uploads"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "aliaksandrh.near",
+        "timestamp": "1671902346710775601",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Supporting simple gif search to be able to have memes like in Telegram to express yourself",
+        "description": "Would be great to add ability to search for gifs, given NEAR Social supports all file uploads"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 41,
+    "author_id": "hackerhouse.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954713088387291",
+      "labels": [
+        "app",
+        "nft",
+        "privacy",
+        "zero-knowledge",
+        "zk"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Secret Santa NFT Swap",
+      "description": "Like tornado cash with NFTs. Put NFT into a pull, receive a SNARK proof to redeem a NFT from the pool."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907126847217021",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Secret Santa NFT Swap",
+        "description": "Like tornado cash with NFTs. Put NFT into a pull, receive a SNARK proof to redeem a NFT from the pool."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 42,
+    "author_id": "hackerhouse.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954847101145102",
+      "labels": [
+        "wallet",
+        "integration"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add More Wallet Selector Wallets",
+      "description": "Currently only, myNEARWallet, NEAR Wallet, Sender, Meteor, and HERE are supported.\n\nLeft out wallets on Wallet Selector.\n- Math Wallet - Injected wallet.\n- Nightly - Injected wallet.\n- Welldone Wallet - Injected wallet.\n- Coin98 Wallet - Injected wallet.\n- Neth - Injected wallet.\n- Ledger - Hardware wallet.\n- WalletConnect - Bridge wallet.\n- Nightly Connect - Bridge wallet.\n- NearFi Wallet - Mobile wallet.\n- Opto Wallet - Mobile wallet & Browser wallet.\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907386820520472",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add More Wallet Selector Wallets",
+        "description": "Currently only, myNEARWallet, NEAR Wallet, Sender, Meteor, and HERE are supported.\n\nLeft out wallets on Wallet Selector.\n- Math Wallet - Injected wallet.\n- Nightly - Injected wallet.\n- Welldone Wallet - Injected wallet.\n- Coin98 Wallet - Injected wallet.\n- Neth - Injected wallet.\n- Ledger - Hardware wallet.\n- WalletConnect - Bridge wallet.\n- Nightly Connect - Bridge wallet.\n- NearFi Wallet - Mobile wallet.\n- Opto Wallet - Mobile wallet & Browser wallet.\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 43,
+    "author_id": "hackerhouse.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954908581043533",
+      "labels": [
+        "feature-request",
+        "app",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "SOCIAL MATCH",
+      "description": "(Previously on ideas list by \"neardc.near\")\n\nTinder like matching system for near social. ability to swipe on profile cards. Matches based on interests, similar widgets, similar nfts. Ui has card version of profile and similar interests: example you both are in this DAO, hold this nft. Last active _x_ minutes ago. See your matches and add them to friend. Take to chatme.page to continue conversations\n\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907526301317110",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "SOCIAL MATCH",
+        "description": "(Previously on ideas list by \"neardc.near\")\n\nTinder like matching system for near social. ability to swipe on profile cards. Matches based on interests, similar widgets, similar nfts. Ui has card version of profile and similar interests: example you both are in this DAO, hold this nft. Last active _x_ minutes ago. See your matches and add them to friend. Take to chatme.page to continue conversations\n\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 44,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654203824222851"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954931632834503",
+      "labels": [
+        "feature-request",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add tip button to profile",
+      "description": "(Previously on ideas list by \"neardc.near\")\n\nAdd a tip button to profile and feed for who has been tipped like GitHub sponsor.\n\nAlso would be cool to see roke.to streaming done for creators like a subscription based model"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907589216610129",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add tip button to profile",
+        "description": "(Previously on ideas list by \"neardc.near\")\n\nAdd a tip button to profile and feed for who has been tipped like GitHub sponsor.\n\nAlso would be cool to see roke.to streaming done for creators like a subscription based model"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 45,
+    "author_id": "hackerhouse.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955004789476177",
+      "labels": [
+        "feature-request",
+        "nft",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add NFT DETAILS PAGE ",
+      "description": "(Previously on ideas list by \"neardc.near\")\n\nWhen you click on nft on profile it should show a near social page with nft details. NFT details should include name, metadata formatted; transaction history. Could be powered by tradeport. also whether is listed on marketplaces. Additional similar nfts. Show current owner and creator/ minting contract"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907726503060779",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add NFT DETAILS PAGE ",
+        "description": "(Previously on ideas list by \"neardc.near\")\n\nWhen you click on nft on profile it should show a near social page with nft details. NFT details should include name, metadata formatted; transaction history. Could be powered by tradeport. also whether is listed on marketplaces. Additional similar nfts. Show current owner and creator/ minting contract"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 46,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654390594325884"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955048289880740",
+      "labels": [
+        "feature-request",
+        "widget",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "New Profiles Made",
+      "description": "A Widget to see the new profiles made everyday on NEAR.social. Like a counter. A graph would be nice. Might also be good to have a new accounts on NEAR counter.\n\nI formerly posted this on ideas list"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907767847305984",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "New Profiles Made",
+        "description": "A Widget to see the new profiles made everyday on NEAR.social. Like a counter. A graph would be nice. Might also be good to have a new accounts on NEAR counter.\n\nI formerly posted this on ideas list"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 47,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "oztanmain.near",
+        "timestamp": "1677684508660385554"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955289484567324",
+      "labels": [
+        "feature-request",
+        "defi",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add portfolio tracker to profile page",
+      "description": "(Previously idea from neardc.near on ideas list)\n\nPortfolio tab to see token balances, P&L, directly on user profiles. Also open profile in block explorer on the profile banner/header."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671907883606067541",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add portfolio tracker to profile page",
+        "description": "(Previously idea from neardc.near on ideas list)\n\nPortfolio tab to see token balances, P&L, directly on user profiles. Also open profile in block explorer on the profile banner/header."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 48,
+    "author_id": "hackerhouse.near",
+    "likes": [],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955445418083849",
+      "labels": [
+        "feature-request",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add Connections (1st,2nd,3rd)",
+      "description": "Based on people who are friends (both follow each other). Like LinkedIN. You have 3 mutual connections. This is a 1st connection, a 2nd connection, etc. \n\nMaybe Momo from Satori can do this as he built a D3 visualizer for Desocial leveraging social DB. "
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671932882047940379",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add Connections (1st,2nd,3rd)",
+        "description": "Based on people who are friends (both follow each other). Like LinkedIN. You have 3 mutual connections. This is a 1st connection, a 2nd connection, etc. \n\nMaybe Momo from Satori can do this as he built a D3 visualizer for Desocial leveraging social DB. "
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 49,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "calcamonia.near",
+        "timestamp": "1672235009378222558"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955327520712201",
+      "labels": [
+        "feature-request",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Trending Hashtags",
+      "description": "Since there are posts, we should have trending hashtags with a multiplier based on engagement for posts and number of posts using hashtag and then search queries based on that hash tag for posts. \n\nThis should show up on the homepage, maybe be better than the poke area. "
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1671933540356069493",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Trending Hashtags",
+        "description": "Since there are posts, we should have trending hashtags with a multiplier based on engagement for posts and number of posts using hashtag and then search queries based on that hash tag for posts. \n\nThis should show up on the homepage, maybe be better than the poke area. "
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 50,
+    "author_id": "blaze.near",
+    "likes": [
+      {
+        "author_id": "calcamonia.near",
+        "timestamp": "1672234969500624885"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954148079179705",
+      "labels": [
+        "feature-request",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "NearSocial MarkDown Editor with Emoji support",
+      "description": "There is a need for formatting/styling on posts with emojis."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "blaze.near",
+        "timestamp": "1671979352720137496",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "NearSocial MarkDown Editor with Emoji support",
+        "description": "There is a need for formatting/styling on posts with emojis."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 51,
+    "author_id": "michaelpeter.near",
+    "likes": [
+      {
+        "author_id": "root.near",
+        "timestamp": "1672848855221820145"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954625114302433",
+      "labels": [
+        "security",
+        "widget",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Convenient verification of user content",
+      "description": "Early widgets which display user-generated content can set a good example by updating to include quick access to some method of verifying the content was truly generated by the user in question.\n\nExample Scenario: A malicious user creates a fork of a widget which is responsible for displaying user-generated content like `MainPage.Feed` and gains views either by offering legitimate improvements or by misleading users as to the widget they are viewing. The malicious widget then inserts fraudulent user content such as a noteable figure urging their followers to donate to a specific address.\n\nMinimal Suggested Solution: Widgets which display a given piece of user-generated data provide a link to NEAR Explorer for quick verification that it was generated by the account in question.\n\ne.g. https://explorer.near.org/transactions/EBCA2GjZrdTbxEcpCqPv76YjKVR3gubjSveBHmEi9xen#DZZ7U2Bg2D8Mvqw577wzQ1Kp2XLukYESBCviY2qHngQt"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "michaelpeter.near",
+        "timestamp": "1672029196164717151",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Convenient verification of user content",
+        "description": "Early widgets which display user-generated content can set a good example by updating to include quick access to some method of verifying the content was truly generated by the user in question.\n\nExample Scenario: A malicious user creates a fork of a widget which is responsible for displaying user-generated content like `MainPage.Feed` and gains views either by offering legitimate improvements or by misleading users as to the widget they are viewing. The malicious widget then inserts fraudulent user content such as a noteable figure urging their followers to donate to a specific address.\n\nMinimal Suggested Solution: Widgets which display a given piece of user-generated data provide a link to NEAR Explorer for quick verification that it was generated by the account in question.\n\ne.g. https://explorer.near.org/transactions/EBCA2GjZrdTbxEcpCqPv76YjKVR3gubjSveBHmEi9xen#DZZ7U2Bg2D8Mvqw577wzQ1Kp2XLukYESBCviY2qHngQt"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 52,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "toolipse.near",
+        "timestamp": "1673531160918552299"
+      },
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654226295848998"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955376049664178",
+      "labels": [
+        "feature-request",
+        "marketplace",
+        "near-social",
+        "nft",
+        "swaps"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "NFT Swap (\"Barter\") on NEAR Social",
+      "description": "Requirements \n- Ability to offer NFTs you own for NFTs in someone else's wallet.\n- Ability to decline offers\n- Need UI + Swap contract.\n- UI includes entering address and selecting NFTs you want and see NFTs in your wallet to offer\n- NEAR.social UI integration would be dropping down addresses to trade with that you follow\n- Standardize this as NEP so NFT marketplaces can display offers as well as wallets.\n- UI on marketplace next to Buy could have Barter (and popup to show other NFTs) and then popup for your wallet\n\nPast implementations on NEAR (but not open source or teams are inactive)\n- HavenSwap https://swap.havendao.antisociallabs.io/ (by AntiSocial Labs)\n- SwapLand https://swapp.land/\n"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1672101641733953443",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "NFT Swap (\"Barter\") on NEAR Social",
+        "description": "Requirements \n- Ability to offer NFTs you own for NFTs in someone else's wallet.\n- Ability to decline offers\n- Need UI + Swap contract.\n- UI includes entering address and selecting NFTs you want and see NFTs in your wallet to offer\n- NEAR.social UI integration would be dropping down addresses to trade with that you follow\n- Standardize this as NEP so NFT marketplaces can display offers as well as wallets.\n- UI on marketplace next to Buy could have Barter (and popup to show other NFTs) and then popup for your wallet\n\nPast implementations on NEAR (but not open source or teams are inactive)\n- HavenSwap https://swap.havendao.antisociallabs.io/ (by AntiSocial Labs)\n- SwapLand https://swapp.land/\n"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 53,
+    "author_id": "hackerhouse.near",
+    "likes": [
+      {
+        "author_id": "rin.akaia.near",
+        "timestamp": "1675654321992555803"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672955478732603194",
+      "labels": [
+        "feature-request",
+        "near-social"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "Add Repost to Feed",
+      "description": "Add Repost to a Post on Feed so it shows on other people's feed that follows you. Can show like retweet UI. \n\nWould be cool to see audit trail of Reposts unlike traditional retweet.\n\nThis could also be quote tweet style of posts with a comment and tweet embed. But if RTs were more like a blockchain where you can trace who RT'd who'se RT instead of just a total count, you can see the path of influence."
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "hackerhouse.near",
+        "timestamp": "1672101880955498899",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "Add Repost to Feed",
+        "description": "Add Repost to a Post on Feed so it shows on other people's feed that follows you. Can show like retweet UI. \n\nWould be cool to see audit trail of Reposts unlike traditional retweet.\n\nThis could also be quote tweet style of posts with a comment and tweet embed. But if RTs were more like a blockchain where you can trace who RT'd who'se RT instead of just a total count, you can see the path of influence."
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 54,
+    "author_id": "magamedrasul.near",
+    "likes": [
+      {
+        "author_id": "mastrophot.near",
+        "timestamp": "1672561605277364992"
+      },
+      {
+        "author_id": "vself.near",
+        "timestamp": "1673974798812217521"
+      },
+      {
+        "author_id": "cuongdcdev.near",
+        "timestamp": "1673170855727092879"
+      },
+      {
+        "author_id": "magamedrasul.near",
+        "timestamp": "1672169380345664320"
+      },
+      {
+        "author_id": "gafram.near",
+        "timestamp": "1672409201528582494"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "devgovgigs.near",
+      "timestamp": "1672954046376959408",
+      "labels": [
+        "metabuild",
+        "hackathon",
+        "voting",
+        "dao"
+      ],
+      "post_type": "Idea",
+      "idea_version": "V1",
+      "name": "VoAn - Anonymous voting/DAO platform",
+      "description": "Anonymous voting platform | DAO platform with anonymous voting feature.\n\nThe project (mvp version) was built for the Metabuild III Hackathon:\n* [VoAn](http://voan.site) - try the app\n* [Full description](https://curryrasul.github.io/voan) - explanation/related\n* [Github repo](https://github.com/curryrasul/voan)\n* [Metabuild submission](https://devpost.com/software/voan)\n\nFurther work (by prod/management side):\nAt the moment we are thinking whether to launch our platform from scratch, make fork of sputnik-dao contracts and launch our own platform OR develop a partnership with AstroDAO team and add anonymous voting feature there.\n\nGeneral roadmap is available at the [website](https://curryrasul.github.io/voan/roadmap.html).\n\nThanks for attention!"
+    },
+    "snapshot_history": [
+      {
+        "editor_id": "magamedrasul.near",
+        "timestamp": "1672169220071164917",
+        "labels": [],
+        "post_type": "Idea",
+        "idea_version": "V1",
+        "name": "VoAn - Anonymous voting/DAO platform",
+        "description": "Anonymous voting platform | DAO platform with anonymous voting feature.\n\nThe project (mvp version) was built for the Metabuild III Hackathon:\n* [VoAn](http://voan.site) - try the app\n* [Full description](https://curryrasul.github.io/voan) - explanation/related\n* [Github repo](https://github.com/curryrasul/voan)\n* [Metabuild submission](https://devpost.com/software/voan)\n\nFurther work (by prod/management side):\nAt the moment we are thinking whether to launch our platform from scratch, make fork of sputnik-dao contracts and launch our own platform OR develop a partnership with AstroDAO team and add anonymous voting feature there.\n\nGeneral roadmap is available at the [website](https://curryrasul.github.io/voan/roadmap.html).\n\nThanks for attention!"
+      }
+    ],
+    "parent_id": null
+  },
+  {
+    "post_version": "V0",
+    "id": 60,
+    "author_id": "djwine_official.near",
+    "likes": [
+      {
+        "author_id": "bo.near",
+        "timestamp": "1699934724886973343"
+      }
+    ],
+    "snapshot": {
+      "editor_id": "djwine_official.near",
+      "timestamp": "1672781825017942757",
+      "labels": [],
+      "post_type": "Comment",
+      "comment_version": "V2",
+      "description": "i did. making improvements atm."
+    },
+    "snapshot_history": [],
+    "parent_id": 37
+  }
+]
