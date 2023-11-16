@@ -1,5 +1,5 @@
 const queryApiAccount = "bo_near";
-const indexer = "devhub_v35";
+const indexer = "devhub_v36";
 
 const prefix = queryApiAccount + "_" + indexer;
 
